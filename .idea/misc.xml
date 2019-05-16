@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/jctest-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/jctest-manager/jctest-manager-interface" />
+    <file type="web" url="file://$PROJECT_DIR$/jctest-manager/jctest-manager-service" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/jctest-paraent/pom.xml" />
+        <option value="$PROJECT_DIR$/jctest-common/pom.xml" />
+        <option value="$PROJECT_DIR$/jctest-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/jctest-manager-web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

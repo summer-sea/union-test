@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jctest-common/jctest-common.iml" filepath="$PROJECT_DIR$/jctest-common/jctest-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jctest-manager/jctest-manager.iml" filepath="$PROJECT_DIR$/jctest-manager/jctest-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jctest-manager/jctest-manager-dao/jctest-manager-dao.iml" filepath="$PROJECT_DIR$/jctest-manager/jctest-manager-dao/jctest-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jctest-manager/jctest-manager-interface/jctest-manager-interface.iml" filepath="$PROJECT_DIR$/jctest-manager/jctest-manager-interface/jctest-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jctest-manager/jctest-manager-pojo/jctest-manager-pojo.iml" filepath="$PROJECT_DIR$/jctest-manager/jctest-manager-pojo/jctest-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jctest-manager/jctest-manager-service/jctest-manager-service.iml" filepath="$PROJECT_DIR$/jctest-manager/jctest-manager-service/jctest-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jctest-manager-web/jctest-manager-web.iml" filepath="$PROJECT_DIR$/jctest-manager-web/jctest-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jctest-paraent/jctest-paraent.iml" filepath="$PROJECT_DIR$/jctest-paraent/jctest-paraent.iml" />
+    </modules>
+  </component>
+</project>
